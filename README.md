@@ -1,4 +1,4 @@
-<img width="512" height="288" alt="stylized_output (1)" src="https://github.com/user-attachments/assets/a99e3e12-9514-4ef8-91b4-32339a002677" /># PRODIGY_GA_05
+
 # 🎨 Task-05: Neural Style Transfer
 
 ## 📌 Objective
